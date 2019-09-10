@@ -18,7 +18,7 @@ struct ContentView: View {
             Text("Car 2")
             Image("car3").resizable().frame(width: 150, height: 150).cornerRadius(20)
             Text("Car 3")
-            Image("car1").resizable().frame(width: 150, height: 150).cornerRadius(20)
+            Image("car1").resizable().frame(width: 160, height: 150).cornerRadius(20)
             Text("Car 4")
         }
         }
